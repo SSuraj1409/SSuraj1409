@@ -15,7 +15,7 @@
   🔗 [StudySpace Social Networking Website](https://github.com/SSuraj1409/StudySpace-Social-Networking-Website/blob/main/README.md)
 
 - <b>Pop 'n' Score – JavaScript Game</b>  
-  A circle-popping timer game with scoring and power-ups.  
+  A fast-paced circle-popping game with a timer, scoring system, and power-ups.  
   🔗 [GitHub Repository](https://github.com/yourusername/pop-n-score-showcase)
 
 ---
