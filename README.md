@@ -15,8 +15,12 @@
   🔗 [StudySpace Social Networking Website](https://github.com/SSuraj1409/StudySpace-Social-Networking-Website/blob/main/README.md)
 
 - <b>Pop 'n' Score – JavaScript Game</b>  
-  A fast-paced circle-popping game with a timer, scoring system, and power-ups.  
+  A fast-paced circle-popping game built using HTML, CSS, and JavaScript. Features a timer, scoring system, power-ups, and a login-based leaderboard.  
   🔗 [Pop 'n' Score Game Website](https://github.com/SSuraj1409/Pop-n-Score-Game-Website/blob/main/README.md)
+
+- <b>Book Shop Website</b>  
+  A static website for an online bookshop developed using HTML, CSS, XML, XSL, and DTD. Demonstrates structured data rendering and transformation with visual styling.  
+  🔗 [GitHub Repository](https://github.com/yourusername/book-shop-xml-xsl)
 
 ---
 
@@ -79,7 +83,6 @@
   🔗 [GitHub Repository](https://github.com/yourusername/covid19-visualization)
 
 ---
-
 
 <!--
 This is your GitHub profile README. Add new projects as they come.
