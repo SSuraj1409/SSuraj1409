@@ -16,7 +16,7 @@
 
 - <b>Pop 'n' Score – JavaScript Game</b>  
   A fast-paced circle-popping game with a timer, scoring system, and power-ups.  
-  🔗 [GitHub Repository](https://github.com/yourusername/pop-n-score-showcase)
+  🔗 [Pop 'n' Score Game Website](https://github.com/SSuraj1409/Pop-n-Score-Game-Website/blob/main/README.md)
 
 ---
 
