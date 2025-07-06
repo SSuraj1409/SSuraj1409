@@ -20,7 +20,7 @@
 
 - <b>Readers Realm – Book Shop Website</b>  
   A static website for an online bookshop developed using HTML, CSS, XML, XSL, and DTD. Demonstrates structured data rendering and transformation with visual styling.  
-  🔗 [GitHub](https://github.com/yourusername/book-shop-xml-xsl)
+  🔗 [Readers Realm Book Shop Website](https://github.com/SSuraj1409/Readers-Realm-Book-Shop-Website/blob/main/README.md)
 
 ---
 
