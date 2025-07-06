@@ -8,6 +8,19 @@
 
 ---
 
+<h2>🔌 Arduino & Physical Computing Projects</h2>
+
+- <b>Smart Trash Bin Sorter</b>  
+  A physical computing project that combines machine learning and hardware automation to classify waste as recyclable or biodegradable using a webcam and Arduino.  
+  Built using Google’s Teachable Machine for image recognition and integrated with an Arduino-controlled mechanism via serial communication.  
+  🔧 Technologies Used: Python, Arduino, Google Teachable Machine, Serial Communication  
+  🧠 Key Features:
+  - Real-time object detection using custom-trained ML model  
+  - Automated trash sorting system for sustainability and efficiency  
+  - Serial communication bridge between software and hardware  
+  🔗 [GitHub Repository](https://github.com/yourusername/smart-trash-bin-sorter)
+---
+
 <h2>🌐 Web Development Projects</h2>
 
 - <b>StudySpace – Social Networking for Students</b>  
