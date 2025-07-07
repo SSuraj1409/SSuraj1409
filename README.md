@@ -18,7 +18,7 @@
   - Real-time object detection using custom-trained ML model  
   - Automated trash sorting system for sustainability and efficiency  
   - Serial communication bridge between software and hardware  
-  🔗 [GitHub Repository](https://github.com/yourusername/smart-trash-bin-sorter)
+  🔗 [Smart Trash Bin Sorter (Arduino Project) ](https://github.com/SSuraj1409/Smart-Trash-Bin-Sorter/blob/main/README.md)
 ---
 
 <h2>🌐 Web Development Projects</h2>
