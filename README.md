@@ -39,9 +39,9 @@
 
 <h2>🐍 Python Projects</h2>
 
-- <b>Trash Classifier with OpenCV</b>  
-  ML-based real-time trash classification system using image processing.  
-  🔗 [GitHub Repository](https://github.com/yourusername/trash-classifier-python)
+- <b>Python GUI Calculator</b>  
+  A Tkinter-based calculator app with support for arithmetic, trigonometry, and a live clock.  
+  🔗 [Python Calculator GUI](https://github.com/SSuraj1409/Calculator-GUI/blob/main/README.md)
 
 - <b>Data Structures and Algorithms Practice</b>  
   Practicing classic problems with Python (searching, sorting, recursion, etc.)  
