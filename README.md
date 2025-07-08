@@ -43,21 +43,15 @@
   A Tkinter-based calculator app with support for arithmetic, trigonometry, and a live clock.  
   🔗 [Python Calculator GUI](https://github.com/SSuraj1409/Calculator-GUI/blob/main/README.md)
 
-- <b>Data Structures and Algorithms Practice</b>  
-  Practicing classic problems with Python (searching, sorting, recursion, etc.)  
-  🔗 [GitHub Repository](https://github.com/yourusername/python-dsa)
 
 ---
 
 <h2>☕ Java Projects</h2>
 
-- <b>JavaFX Weather App</b>  
-  Desktop app with JavaFX UI to fetch and display weather data.  
-  🔗 [GitHub Repository](https://github.com/yourusername/javafx-weather-app)
-
-- <b>Bank Management System</b>  
-  Simple Java CLI banking system for deposits, transfers, and balance checks.  
+- - <b>Library Management System</b>  
+  A Java GUI application developed using JavaFX and SceneBuilder for managing books, users, and transactions in a library system.
   🔗 [GitHub Repository](https://github.com/yourusername/java-bank-system)
+
 
 ---
 
