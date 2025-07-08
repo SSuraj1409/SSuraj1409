@@ -50,7 +50,7 @@
 
 - - <b>Library Management System</b>  
   A Java GUI application developed using JavaFX and SceneBuilder for adding and deleting books, managing members, and handling issuing and returning processes.
-  🔗 [GitHub Repository](https://github.com/yourusername/java-bank-system)
+  🔗 [GUI Library Managemnt System](https://github.com/SSuraj1409/Java-Library-Management-System-)
 
 
 ---
