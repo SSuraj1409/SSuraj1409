@@ -48,7 +48,7 @@
 
 <h2>☕ Java Projects</h2>
 
-- - <b>Library Management System</b>  
+- <b>Library Management System</b>  
   A Java GUI application developed using JavaFX and SceneBuilder for adding and deleting books, managing members, and handling issuing and returning processes.
   🔗 [GUI Library Managemnt System](https://github.com/SSuraj1409/Java-Library-Management-System-)
 
