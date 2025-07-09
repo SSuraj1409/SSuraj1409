@@ -71,12 +71,8 @@
 
 <h2>🐚 Bash Scripting Projects</h2>
 
-- <b>System Backup Script</b>  
-  Automates full directory backups with logging and error handling.  
-  🔗 [GitHub Repository](https://github.com/yourusername/bash-backup-script)
-
-- <b>Disk Usage Reporter</b>  
-  Bash script to monitor and report disk space via email.  
+- <b> Operating Systems programming</b>
+  A dialog-based Bash script that combines date/time display, calendar note-taking, file deletion, and system info viewing in one interactive terminal tool.  
   🔗 [GitHub Repository](https://github.com/yourusername/disk-usage-script)
 
 ---
