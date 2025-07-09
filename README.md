@@ -61,7 +61,7 @@
 
 - <b>Dice Program</b>  
   A C program that simulates customizable dice rolls and displays face occurrence percentages using arrays and randomness.  
-  🔗 [GitHub Repository](https://github.com/yourusername/c-simple-shell)
+  🔗 [Dice Program C Project](https://github.com/SSuraj1409/C-Dice-Program/blob/main/README.md)
 
 ---
 
