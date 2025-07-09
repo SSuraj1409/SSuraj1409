@@ -59,13 +59,9 @@
 
 <h2>📘 C Projects</h2>
 
-- <b>Simple Shell in C</b>  
-  A basic shell that supports command parsing, redirection, and pipes.  
+- <b>Dice Program</b>  
+  A C program that simulates customizable dice rolls and displays face occurrence percentages using arrays and randomness.  
   🔗 [GitHub Repository](https://github.com/yourusername/c-simple-shell)
-
-- <b>Student Record System</b>  
-  File-based record management using structures in C.  
-  🔗 [GitHub Repository](https://github.com/yourusername/c-student-record)
 
 ---
 
