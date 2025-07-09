@@ -72,8 +72,9 @@
 <h2>🐚 Bash Scripting Projects</h2>
 
 - <b> Operating Systems programming</b>
-  A dialog-based Bash script that combines date/time display, calendar note-taking, file deletion, and system info viewing in one interactive terminal tool.  
-  🔗 [GitHub Repository](https://github.com/yourusername/disk-usage-script)
+  A dialog-based Bash script that combines date/time display, calendar note-taking, file deletion,
+  and system info viewing in one interactive terminal tool.  
+  🔗 [Bash Project](https://github.com/SSuraj1409/Operating-Systems-programming-Bash-Project-/blob/main/README.md#%EF%B8%8F-operating-systems-programming)
 
 ---
 
