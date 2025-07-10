@@ -37,6 +37,18 @@
 
 ---
 
+<h2>📊 Data Science Projects</h2>
+
+- <b>Predicting Credit Card Default Risk Using Machine Learning </b>  
+   Built a machine learning model to predict credit card default risk using financial behavior data and achieved 81% accuracy.
+  🔗 [Credit Card Default Risk Prediction](https://github.com/SSuraj1409/Predicting-Credit-Card-Default-Risk-/blob/main/README.md)
+
+- <b>COVID-19 Data Visualization</b>  
+  Time-series analysis and dashboard using matplotlib and plotly.  
+  🔗 [GitHub Repository](https://github.com/yourusername/covid19-visualization)
+
+---
+
 <h2>🐍 Python Projects</h2>
 
 - <b>Python GUI Calculator</b>  
@@ -72,17 +84,6 @@
   and system info viewing in one interactive terminal tool.  
   🔗 [Bash Project](https://github.com/SSuraj1409/Operating-Systems-programming-Bash-Project-/blob/main/README.md#%EF%B8%8F-operating-systems-programming)
 
----
-
-<h2>📊 Data Science Projects</h2>
-
-- <b>Predicting Credit Card Default Risk Using Machine Learning </b>  
-   Built a machine learning model to predict credit card default risk using financial behavior data and achieved 81% accuracy.
-  🔗 [Credit Card Default Risk Prediction](https://github.com/SSuraj1409/Predicting-Credit-Card-Default-Risk-/blob/main/README.md)
-
-- <b>COVID-19 Data Visualization</b>  
-  Time-series analysis and dashboard using matplotlib and plotly.  
-  🔗 [GitHub Repository](https://github.com/yourusername/covid19-visualization)
 
 ---
 
