@@ -39,8 +39,8 @@
 
 <h2>📊 Data Science Projects</h2>
 
-- <b>Predicting Credit Card Default Risk Using Machine Learning </b>  
-   Built a machine learning model to predict credit card default risk using financial behavior data and achieved 81% accuracy.
+- <b>Predicting Credit Card Default Risk Using Machine Learning</b>  
+  Built a machine learning model to predict credit card default risk using financial behavior data and achieved 81% accuracy.  
   🔗 [Credit Card Default Risk Prediction](https://github.com/SSuraj1409/Predicting-Credit-Card-Default-Risk-/blob/main/README.md)
 
 - <b>COVID-19 Data Visualization</b>  
