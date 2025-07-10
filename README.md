@@ -76,8 +76,8 @@
 
 <h2>📊 Data Science Projects</h2>
 
-- <b>SDG Index Trends Analysis</b>  
-  Analysis of UN Sustainable Development Goals using Python, pandas, and seaborn.  
+- <b>Predicting Credit Card Default Risk Using Machine Learning </b>  
+   Built a machine learning model to predict credit card default risk using financial behavior data and achieved 81% accuracy.
   🔗 [GitHub Repository](https://github.com/yourusername/sdg-index-analysis)
 
 - <b>COVID-19 Data Visualization</b>  
