@@ -45,7 +45,7 @@
 
 - <b>Analysing Sustainable Development Goals (SDGs) Using Tableau</b>  
   Data analysis and visualization of Sustainable Development Goals (SDGs) using Tableau, focusing on integration, storytelling, forecasting, and sustainability insights.  
-  🔗 [GitHub Repository](https://github.com/yourusername/covid19-visualization)
+  🔗 [Analysing Sustainable Development Goals (SDGs) Using Tableau](https://github.com/SSuraj1409/Analyzing-SDGs-Data-With-Tableau./edit/main/README.md)
 
 ---
 
