@@ -1,12 +1,16 @@
-<h1 align="center">Hi, I'm Suraj! 👋<br/>Aspiring Software Developer & Tech Enthusiast</h1>
+# Hello, I'm Suraj! 👋
 
-<p align="center">
-  <a href="https://github.com/yourusername">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/yourlinkedin/">LinkedIn</a> • 
-  <a href="mailto:youremail@example.com">Email</a>
-</p>
+**Passionate about learning, solving problems, and creating impactful projects that make a difference.**
 
 ---
+
+### Connect with me on LinkedIn
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/48/174/174857.png)](https://www.linkedin.com/in/yourlinkedin/)
+
+---
+
+
 
 <h2>🔌 Arduino & Physical Computing Projects</h2>
 
