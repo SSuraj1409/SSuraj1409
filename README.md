@@ -43,8 +43,8 @@
   Built a machine learning model to predict credit card default risk using financial behavior data and achieved 81% accuracy.  
   🔗 [Credit Card Default Risk Prediction](https://github.com/SSuraj1409/Predicting-Credit-Card-Default-Risk-/blob/main/README.md)
 
-- <b>COVID-19 Data Visualization</b>  
-  Time-series analysis and dashboard using matplotlib and plotly.  
+- <b>Analysing Sustainable Development Goals (SDGs) Using Tableau</b>  
+  Data analysis and visualization of Sustainable Development Goals (SDGs) using Tableau, focusing on integration, storytelling, forecasting, and sustainability insights.  
   🔗 [GitHub Repository](https://github.com/yourusername/covid19-visualization)
 
 ---
