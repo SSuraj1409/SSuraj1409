@@ -62,7 +62,7 @@ The AI model was built using Google Teachable Machine and integrated with an Ard
 - Integration of software models with hardware systems  
 - Importance of dataset quality and real-world testing  
 
-🔗 [Smart Trash Bin Sorter (Arduino Project)](https://github.com/SSuraj1409/Smart-Trash-Bin-Sorter/blob/main/README.md)
+  🔗 [Smart Trash Bin Sorter (Arduino Project)](https://github.com/SSuraj1409/Smart-Trash-Bin-Sorter/blob/main/README.md)
 ---
 
 <h2>🌐 Web Development Projects</h2>
