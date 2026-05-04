@@ -14,25 +14,25 @@
 
 <h2>🔌 Arduino & Physical Computing Projects</h2>
 
+---
+
 ### **Smart Waste Classification & Sorting System (Final Year Project)**
 
 An advanced AI-powered smart bin that integrates deep learning, computer vision, and embedded systems to enable real-time automated waste classification and sorting.
 
 The system leverages multiple pretrained convolutional neural networks and an ensemble learning strategy to improve prediction accuracy and robustness in real-world environments. Models are deployed using ONNX and integrated with a Raspberry Pi and Arduino-based control system for physical actuation.
 
-🔧 **Technologies Used:** Python, PyTorch, OpenCV, ONNX, Arduino, Raspberry Pi, Computer Vision
+🔧 **Technologies Used:** Python, PyTorch, OpenCV, ONNX, Arduino, Raspberry Pi, Computer Vision  
 
 🧠 **Key Features:**
-
 - Real-time waste classification using webcam-based inference  
 - Ensemble model (EfficientNet-B0, ResNet-50, MobileNetV3) for improved accuracy  
 - ONNX-based deployment for optimized performance  
 - OpenCV pipeline for live image processing  
 - Arduino-controlled automated sorting mechanism  
-- End-to-end system integration (AI + hardware + system communication)
+- End-to-end system integration (AI + hardware + system communication)  
 
 📊 **Highlights:**
-
 - Classifies 5 categories: e-waste, plastic, metal, paper, general waste  
 - Higher accuracy and stability compared to baseline CNN  
 - Handles real-world challenges (lighting, background noise)  
@@ -40,15 +40,29 @@ The system leverages multiple pretrained convolutional neural networks and an en
 
 🔗 [Final Year Project Repository](YOUR_FINAL_PROJECT_LINK)
 
-- <b>Smart Trash Bin Sorter</b>  
-  A physical computing project that combines machine learning and hardware automation to classify waste as recyclable or biodegradable using a webcam and Arduino.  
-  Built using Google’s Teachable Machine for image recognition and integrated with an Arduino-controlled mechanism via serial communication.  
-  🔧 Technologies Used: Python, Arduino, Google Teachable Machine, Serial Communication  
-  🧠 Key Features:
-  - Real-time object detection using custom-trained ML model  
-  - Automated trash sorting system for sustainability and efficiency  
-  - Serial communication bridge between software and hardware  
-  🔗 [Smart Trash Bin Sorter (Arduino Project) ](https://github.com/SSuraj1409/Smart-Trash-Bin-Sorter/blob/main/README.md)
+---
+
+### **Smart Trash Bin Sorter (Year 1 Prototype)**
+
+An early-stage physical computing project that combines basic machine learning and Arduino automation to classify waste using image recognition.
+
+Built using Google Teachable Machine and integrated with Arduino through serial communication to trigger sorting actions.
+
+🔧 **Technologies Used:** Python, Arduino, Google Teachable Machine, Serial Communication  
+
+🧠 **Key Features:**
+- Basic image classification using a custom-trained model  
+- Real-time webcam input for waste detection  
+- Arduino-based sorting mechanism  
+- Serial communication between software and hardware  
+
+📈 **What I Learned:**
+- Fundamentals of machine learning and computer vision  
+- Hardware–software integration using Arduino  
+- Importance of dataset quality and real-world testing  
+
+🔗 [Smart Trash Bin Sorter (Arduino Project)](https://github.com/SSuraj1409/Smart-Trash-Bin-Sorter/blob/main/README.md)
+
 ---
 
 <h2>🌐 Web Development Projects</h2>
