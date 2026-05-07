@@ -116,14 +116,12 @@ The AI model was built using Google Teachable Machine and integrated with an Ard
 
 <h2>🧠 Artificial Intelligence Projects</h2>
 
-- <b>*Handwritten Digit Recognition using MLP Neural Network</b>
-
-Developed a machine learning system for handwritten digit recognition using a Multi-Layer Perceptron (MLP) neural network trained from scratch. The model was evaluated using a two-fold cross-validation approach to ensure reliable performance across different dataset splits.
-
-The system was built using the UCI Optical Recognition dataset and focused on achieving strong generalization through proper hyperparameter tuning and optimization techniques such as learning rate decay, early stopping, and label smoothing.
 
 
-🔗 [MLP Digit Recognition Project](https://github.com/SSuraj1409/your-repo-link-here)
+- <b>Handwritten Digit Recognition using MLP Neural Network</b>  
+  Developed a machine learning system for handwritten digit recognition using a Multi-Layer Perceptron (MLP) neural network trained from scratch. The model was evaluated using a two-fold cross-validation approach to ensure reliable performance across different dataset splits. The system was built using the UCI Optical Recognition dataset and achieved strong generalization through hyperparameter tuning and optimization techniques such as learning rate decay, early stopping, and label smoothing.  
+
+  🔗 [MLP Digit Recognition Project](https://github.com/SSuraj1409/your-repo-link-here)
 ---
 
 <h2>📘 C Projects</h2>
