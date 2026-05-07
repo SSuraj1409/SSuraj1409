@@ -38,7 +38,7 @@ The system leverages multiple pretrained convolutional neural networks and an en
 - Handles real-world challenges (lighting, background noise)  
 - Improved reliability using confidence thresholds and prediction smoothing  
 
-🔗 [Final Year Project Repository](YOUR_FINAL_PROJECT_LINK)
+🔗 [Final Year Project Repository](https://github.com/SSuraj1409/Final-Year-Project/blob/main/README.md)
 
 ---
 
